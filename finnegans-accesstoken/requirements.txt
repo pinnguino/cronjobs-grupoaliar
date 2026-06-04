@@ -1,0 +1,13 @@
+# Make HTTP requests
+requests
+
+# Load .env files into python programs
+python-dotenv
+
+# Google Auth
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+# Sheets wrapper for google-api-python-client
+gspread
