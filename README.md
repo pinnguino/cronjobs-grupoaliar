@@ -11,8 +11,9 @@ El Access Token de Finnegans para acceder a la API tiene una *duración limitada
 
 ## Cómo levantar el servicio
 
-Obtener las credenciales de OAuth 2.0 en la consola de Google Cloud habilitando la API de Google Sheets.
-Para más información ver [aquí](https://developers.google.com/identity/oauth2/web/guides/get-google-api-clientid).
+Obtener las credenciales de accesso para:
+- OAuth 2.0 en la consola de Google Cloud habilitando la API de Google Sheets. Para más información ver [aquí](https://developers.google.com/identity/oauth2/web/guides/get-google-api-clientid).
+- Supabase. Buscar en la documentación cómo acceder a la tabla deseada y actualizar datos.
 
 ### macOS / Linux
 
